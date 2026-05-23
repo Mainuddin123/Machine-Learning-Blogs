@@ -1,4 +1,4 @@
-# AI & Machine Learning Learning Blogs
+# Machine Learning Blogs
 
 This repository contains my technical learning blogs related to Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI.
 
