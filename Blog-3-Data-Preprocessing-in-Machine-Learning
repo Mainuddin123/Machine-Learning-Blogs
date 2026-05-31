@@ -1,0 +1,21 @@
+
+This blog provides a beginner-friendly introduction to Data Preprocessing, one of the most important stages in the Machine Learning pipeline. It explains how raw data is transformed into a clean and machine-learning-ready format through techniques such as missing value handling, outlier detection, feature scaling, feature transformation, and categorical data encoding.
+Topics Covered
+Numerical Data Preprocessing
+Missing Value Treatment
+Outlier Detection and Handling
+Feature Scaling (MinMax, Standard, Robust Scaling)
+Feature Transformation (Log, Square Root, Reciprocal, Box-Cox, Yeo-Johnson)
+Categorical Data Preprocessing
+One-Hot Encoding and Ordinal Encoding
+Real-World Preprocessing Workflow
+Key Learning Outcomes
+Understand the importance of preprocessing in machine learning
+Learn how to prepare numerical and categorical data for modeling
+Explore common scaling and transformation techniques
+Build a strong foundation for feature engineering and model development
+
+Medium Article: https://medium.com/@mainuddinkhaja54/understanding-data-preprocessing-in-machine-learning-numerical-categ
+
+Author:
+Khaja Mainuddin SK 
