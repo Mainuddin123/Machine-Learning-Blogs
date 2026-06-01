@@ -1,0 +1,73 @@
+# Blog 4: Understanding Image Data Preprocessing for Machine Learning
+
+## Overview
+
+This blog explores the complete workflow of Image Data Preprocessing, an essential step in Machine Learning and Computer Vision projects. It explains how raw images are transformed into machine-learning-ready numerical data using Python, OpenCV, NumPy, and Pandas.
+
+## Topics Covered
+
+* Understanding Image Data
+* Importance of Image Preprocessing
+* Reading Images Using OpenCV
+* Understanding Image Dimensions
+* Image Resizing
+* Converting Images into NumPy Arrays
+* Flattening Images for Machine Learning
+* Handling Multiple Images
+* Creating Image Datasets
+* Real-World Image Preprocessing Workflow
+
+## Key Concepts
+
+### Image as Numerical Data
+
+Computers do not interpret images as visual objects. Instead, images are represented as numerical pixel values stored in multidimensional arrays.
+
+### Image Resizing
+
+Images are resized to fixed dimensions to ensure consistency and improve computational efficiency during model training.
+
+### NumPy Array Conversion
+
+Images are converted into NumPy arrays, allowing mathematical operations and preprocessing techniques to be applied.
+
+### Flattening
+
+Multi-dimensional image data is transformed into a one-dimensional feature vector suitable for traditional machine learning algorithms.
+
+### Dataset Creation
+
+Multiple processed images are combined into structured datasets where each row represents an image and each column represents a pixel value.
+
+## Learning Outcomes
+
+After reading this blog, you will understand:
+
+* How computers interpret image data
+* Why preprocessing is required before model training
+* How image resizing improves consistency
+* How images are converted into numerical arrays
+* Why flattening is used in machine learning workflows
+* How image datasets are transformed into tabular format
+
+## Technologies Used
+
+* Python
+* OpenCV
+* NumPy
+* Pandas
+* Matplotlib
+* imutils
+
+## Medium Article
+
+Read the complete article here:
+link: https://medium.com/@mainuddinkhaja54/understanding-image-data-preprocessing-for-machine-learning-from-raw-images-to-model-ready-data-8d80c32cd568
+
+## Author
+
+Khaja Mainuddin
+
+Artificial Intelligence & Data Science Enthusiast
+
+Passionate about Machine Learning, Computer Vision, Data Science, and AI-driven problem solving.
