@@ -1,0 +1,66 @@
+📈 Linear Regression Explained Simply: The Machine Learning Algorithm Every Beginner Should Learn
+📖 Overview
+
+This repository contains my beginner-friendly blog on Linear Regression, one of the fundamental supervised Machine Learning algorithms. The article explains the concepts from scratch using simple language, intuitive examples, visual diagrams, and optimization concepts.
+
+Whether you're a student, aspiring Data Scientist, or preparing for Machine Learning interviews, this guide provides a strong conceptual foundation.
+
+🚀 Topics Covered
+Introduction to Linear Regression
+Supervised Learning
+Best-Fit Line
+Hyperplane
+Linear Regression Equation
+Prediction Error (Residual)
+Squared Error
+Loss Function (Mean Squared Error)
+Optimization
+Monotonic Functions
+Maximization & Minimization
+Global & Local Minima and Maxima
+Ordinary Least Squares (OLS)
+Gradient Descent
+Learning Rate
+Batch Gradient Descent
+Stochastic Gradient Descent (SGD)
+Mini-Batch Gradient Descent
+Regularization (Ridge, Lasso & Elastic Net)
+Assumptions of Linear Regression
+Advantages & Limitations
+Real-world Applications
+Interview-Oriented Concepts
+🎯 Who Is This For?
+Beginners in Machine Learning
+Data Science Students
+AI Enthusiasts
+Interview Preparation
+Self-Learners
+📚 Read the Complete Article
+
+Medium:
+🔗 https://medium.com/@mainuddinkhaja54/linear-regression-explained-simply-the-machine-learning-algorithm-every-beginner-should-learn-8e970050fb2e
+
+💼 LinkedIn Post
+
+🔗 https://www.linkedin.com/posts/khaja-mainuddin-sk-958436348_machinelearning-linearregression-datascience-share-7478702341257510913-Kggt/
+
+🛠️ Technologies
+Python
+Machine Learning
+Linear Regression
+Data Science
+Artificial Intelligence
+
+⭐ Repository Structure
+Linear-Regression-Blog/
+│── README.md
+│── images/
+│   ├── best_fit_line.png
+│   ├── prediction_error.png
+│   ├── loss_function.png
+│   ├── gradient_descent.png
+│   └── ...
+
+👨‍💻 Author
+Shaik Khaja Mainuddin
+
